@@ -1,0 +1,289 @@
+weatherPK,tMinBand,tMaxBand,precipitationBand,rain
+1,>=14,>=14,0-0.99,It rained
+2,>=14,>=14,0-0.99,It did not rain
+3,>=14,>=14,1-2.99,It rained
+4,>=14,>=14,1-2.99,It did not rain
+5,>=14,>=14,3-4.99,It rained
+6,>=14,>=14,3-4.99,It did not rain
+7,>=14,>=14,>=5,It rained
+8,>=14,>=14,>=5,It did not rain
+9,>=14,15-32,0-0.99,It rained
+10,>=14,15-32,0-0.99,It did not rain
+11,>=14,15-32,1-2.99,It rained
+12,>=14,15-32,1-2.99,It did not rain
+13,>=14,15-32,3-4.99,It rained
+14,>=14,15-32,3-4.99,It did not rain
+15,>=14,15-32,>=5,It rained
+16,>=14,15-32,>=5,It did not rain
+17,>=14,33-50,0-0.99,It rained
+18,>=14,33-50,0-0.99,It did not rain
+19,>=14,33-50,1-2.99,It rained
+20,>=14,33-50,1-2.99,It did not rain
+21,>=14,33-50,3-4.99,It rained
+22,>=14,33-50,3-4.99,It did not rain
+23,>=14,33-50,>=5,It rained
+24,>=14,33-50,>=5,It did not rain
+25,>=14,51-68,0-0.99,It rained
+26,>=14,51-68,0-0.99,It did not rain
+27,>=14,51-68,1-2.99,It rained
+28,>=14,51-68,1-2.99,It did not rain
+29,>=14,51-68,3-4.99,It rained
+30,>=14,51-68,3-4.99,It did not rain
+31,>=14,51-68,>=5,It rained
+32,>=14,51-68,>=5,It did not rain
+33,>=14,69-86,0-0.99,It rained
+34,>=14,69-86,0-0.99,It did not rain
+35,>=14,69-86,1-2.99,It rained
+36,>=14,69-86,1-2.99,It did not rain
+37,>=14,69-86,3-4.99,It rained
+38,>=14,69-86,3-4.99,It did not rain
+39,>=14,69-86,>=5,It rained
+40,>=14,69-86,>=5,It did not rain
+41,>=14,>=87,0-0.99,It rained
+42,>=14,>=87,0-0.99,It did not rain
+43,>=14,>=87,1-2.99,It rained
+44,>=14,>=87,1-2.99,It did not rain
+45,>=14,>=87,3-4.99,It rained
+46,>=14,>=87,3-4.99,It did not rain
+47,>=14,>=87,>=5,It rained
+48,>=14,>=87,>=5,It did not rain
+49,15-32,>=14,0-0.99,It rained
+50,15-32,>=14,0-0.99,It did not rain
+51,15-32,>=14,1-2.99,It rained
+52,15-32,>=14,1-2.99,It did not rain
+53,15-32,>=14,3-4.99,It rained
+54,15-32,>=14,3-4.99,It did not rain
+55,15-32,>=14,>=5,It rained
+56,15-32,>=14,>=5,It did not rain
+57,15-32,15-32,0-0.99,It rained
+58,15-32,15-32,0-0.99,It did not rain
+59,15-32,15-32,1-2.99,It rained
+60,15-32,15-32,1-2.99,It did not rain
+61,15-32,15-32,3-4.99,It rained
+62,15-32,15-32,3-4.99,It did not rain
+63,15-32,15-32,>=5,It rained
+64,15-32,15-32,>=5,It did not rain
+65,15-32,33-50,0-0.99,It rained
+66,15-32,33-50,0-0.99,It did not rain
+67,15-32,33-50,1-2.99,It rained
+68,15-32,33-50,1-2.99,It did not rain
+69,15-32,33-50,3-4.99,It rained
+70,15-32,33-50,3-4.99,It did not rain
+71,15-32,33-50,>=5,It rained
+72,15-32,33-50,>=5,It did not rain
+73,15-32,51-68,0-0.99,It rained
+74,15-32,51-68,0-0.99,It did not rain
+75,15-32,51-68,1-2.99,It rained
+76,15-32,51-68,1-2.99,It did not rain
+77,15-32,51-68,3-4.99,It rained
+78,15-32,51-68,3-4.99,It did not rain
+79,15-32,51-68,>=5,It rained
+80,15-32,51-68,>=5,It did not rain
+81,15-32,69-86,0-0.99,It rained
+82,15-32,69-86,0-0.99,It did not rain
+83,15-32,69-86,1-2.99,It rained
+84,15-32,69-86,1-2.99,It did not rain
+85,15-32,69-86,3-4.99,It rained
+86,15-32,69-86,3-4.99,It did not rain
+87,15-32,69-86,>=5,It rained
+88,15-32,69-86,>=5,It did not rain
+89,15-32,>=87,0-0.99,It rained
+90,15-32,>=87,0-0.99,It did not rain
+91,15-32,>=87,1-2.99,It rained
+92,15-32,>=87,1-2.99,It did not rain
+93,15-32,>=87,3-4.99,It rained
+94,15-32,>=87,3-4.99,It did not rain
+95,15-32,>=87,>=5,It rained
+96,15-32,>=87,>=5,It did not rain
+97,33-50,>=14,0-0.99,It rained
+98,33-50,>=14,0-0.99,It did not rain
+99,33-50,>=14,1-2.99,It rained
+100,33-50,>=14,1-2.99,It did not rain
+101,33-50,>=14,3-4.99,It rained
+102,33-50,>=14,3-4.99,It did not rain
+103,33-50,>=14,>=5,It rained
+104,33-50,>=14,>=5,It did not rain
+105,33-50,15-32,0-0.99,It rained
+106,33-50,15-32,0-0.99,It did not rain
+107,33-50,15-32,1-2.99,It rained
+108,33-50,15-32,1-2.99,It did not rain
+109,33-50,15-32,3-4.99,It rained
+110,33-50,15-32,3-4.99,It did not rain
+111,33-50,15-32,>=5,It rained
+112,33-50,15-32,>=5,It did not rain
+113,33-50,33-50,0-0.99,It rained
+114,33-50,33-50,0-0.99,It did not rain
+115,33-50,33-50,1-2.99,It rained
+116,33-50,33-50,1-2.99,It did not rain
+117,33-50,33-50,3-4.99,It rained
+118,33-50,33-50,3-4.99,It did not rain
+119,33-50,33-50,>=5,It rained
+120,33-50,33-50,>=5,It did not rain
+121,33-50,51-68,0-0.99,It rained
+122,33-50,51-68,0-0.99,It did not rain
+123,33-50,51-68,1-2.99,It rained
+124,33-50,51-68,1-2.99,It did not rain
+125,33-50,51-68,3-4.99,It rained
+126,33-50,51-68,3-4.99,It did not rain
+127,33-50,51-68,>=5,It rained
+128,33-50,51-68,>=5,It did not rain
+129,33-50,69-86,0-0.99,It rained
+130,33-50,69-86,0-0.99,It did not rain
+131,33-50,69-86,1-2.99,It rained
+132,33-50,69-86,1-2.99,It did not rain
+133,33-50,69-86,3-4.99,It rained
+134,33-50,69-86,3-4.99,It did not rain
+135,33-50,69-86,>=5,It rained
+136,33-50,69-86,>=5,It did not rain
+137,33-50,>=87,0-0.99,It rained
+138,33-50,>=87,0-0.99,It did not rain
+139,33-50,>=87,1-2.99,It rained
+140,33-50,>=87,1-2.99,It did not rain
+141,33-50,>=87,3-4.99,It rained
+142,33-50,>=87,3-4.99,It did not rain
+143,33-50,>=87,>=5,It rained
+144,33-50,>=87,>=5,It did not rain
+145,51-68,>=14,0-0.99,It rained
+146,51-68,>=14,0-0.99,It did not rain
+147,51-68,>=14,1-2.99,It rained
+148,51-68,>=14,1-2.99,It did not rain
+149,51-68,>=14,3-4.99,It rained
+150,51-68,>=14,3-4.99,It did not rain
+151,51-68,>=14,>=5,It rained
+152,51-68,>=14,>=5,It did not rain
+153,51-68,15-32,0-0.99,It rained
+154,51-68,15-32,0-0.99,It did not rain
+155,51-68,15-32,1-2.99,It rained
+156,51-68,15-32,1-2.99,It did not rain
+157,51-68,15-32,3-4.99,It rained
+158,51-68,15-32,3-4.99,It did not rain
+159,51-68,15-32,>=5,It rained
+160,51-68,15-32,>=5,It did not rain
+161,51-68,33-50,0-0.99,It rained
+162,51-68,33-50,0-0.99,It did not rain
+163,51-68,33-50,1-2.99,It rained
+164,51-68,33-50,1-2.99,It did not rain
+165,51-68,33-50,3-4.99,It rained
+166,51-68,33-50,3-4.99,It did not rain
+167,51-68,33-50,>=5,It rained
+168,51-68,33-50,>=5,It did not rain
+169,51-68,51-68,0-0.99,It rained
+170,51-68,51-68,0-0.99,It did not rain
+171,51-68,51-68,1-2.99,It rained
+172,51-68,51-68,1-2.99,It did not rain
+173,51-68,51-68,3-4.99,It rained
+174,51-68,51-68,3-4.99,It did not rain
+175,51-68,51-68,>=5,It rained
+176,51-68,51-68,>=5,It did not rain
+177,51-68,69-86,0-0.99,It rained
+178,51-68,69-86,0-0.99,It did not rain
+179,51-68,69-86,1-2.99,It rained
+180,51-68,69-86,1-2.99,It did not rain
+181,51-68,69-86,3-4.99,It rained
+182,51-68,69-86,3-4.99,It did not rain
+183,51-68,69-86,>=5,It rained
+184,51-68,69-86,>=5,It did not rain
+185,51-68,>=87,0-0.99,It rained
+186,51-68,>=87,0-0.99,It did not rain
+187,51-68,>=87,1-2.99,It rained
+188,51-68,>=87,1-2.99,It did not rain
+189,51-68,>=87,3-4.99,It rained
+190,51-68,>=87,3-4.99,It did not rain
+191,51-68,>=87,>=5,It rained
+192,51-68,>=87,>=5,It did not rain
+193,69-86,>=14,0-0.99,It rained
+194,69-86,>=14,0-0.99,It did not rain
+195,69-86,>=14,1-2.99,It rained
+196,69-86,>=14,1-2.99,It did not rain
+197,69-86,>=14,3-4.99,It rained
+198,69-86,>=14,3-4.99,It did not rain
+199,69-86,>=14,>=5,It rained
+200,69-86,>=14,>=5,It did not rain
+201,69-86,15-32,0-0.99,It rained
+202,69-86,15-32,0-0.99,It did not rain
+203,69-86,15-32,1-2.99,It rained
+204,69-86,15-32,1-2.99,It did not rain
+205,69-86,15-32,3-4.99,It rained
+206,69-86,15-32,3-4.99,It did not rain
+207,69-86,15-32,>=5,It rained
+208,69-86,15-32,>=5,It did not rain
+209,69-86,33-50,0-0.99,It rained
+210,69-86,33-50,0-0.99,It did not rain
+211,69-86,33-50,1-2.99,It rained
+212,69-86,33-50,1-2.99,It did not rain
+213,69-86,33-50,3-4.99,It rained
+214,69-86,33-50,3-4.99,It did not rain
+215,69-86,33-50,>=5,It rained
+216,69-86,33-50,>=5,It did not rain
+217,69-86,51-68,0-0.99,It rained
+218,69-86,51-68,0-0.99,It did not rain
+219,69-86,51-68,1-2.99,It rained
+220,69-86,51-68,1-2.99,It did not rain
+221,69-86,51-68,3-4.99,It rained
+222,69-86,51-68,3-4.99,It did not rain
+223,69-86,51-68,>=5,It rained
+224,69-86,51-68,>=5,It did not rain
+225,69-86,69-86,0-0.99,It rained
+226,69-86,69-86,0-0.99,It did not rain
+227,69-86,69-86,1-2.99,It rained
+228,69-86,69-86,1-2.99,It did not rain
+229,69-86,69-86,3-4.99,It rained
+230,69-86,69-86,3-4.99,It did not rain
+231,69-86,69-86,>=5,It rained
+232,69-86,69-86,>=5,It did not rain
+233,69-86,>=87,0-0.99,It rained
+234,69-86,>=87,0-0.99,It did not rain
+235,69-86,>=87,1-2.99,It rained
+236,69-86,>=87,1-2.99,It did not rain
+237,69-86,>=87,3-4.99,It rained
+238,69-86,>=87,3-4.99,It did not rain
+239,69-86,>=87,>=5,It rained
+240,69-86,>=87,>=5,It did not rain
+241,>=87,>=14,0-0.99,It rained
+242,>=87,>=14,0-0.99,It did not rain
+243,>=87,>=14,1-2.99,It rained
+244,>=87,>=14,1-2.99,It did not rain
+245,>=87,>=14,3-4.99,It rained
+246,>=87,>=14,3-4.99,It did not rain
+247,>=87,>=14,>=5,It rained
+248,>=87,>=14,>=5,It did not rain
+249,>=87,15-32,0-0.99,It rained
+250,>=87,15-32,0-0.99,It did not rain
+251,>=87,15-32,1-2.99,It rained
+252,>=87,15-32,1-2.99,It did not rain
+253,>=87,15-32,3-4.99,It rained
+254,>=87,15-32,3-4.99,It did not rain
+255,>=87,15-32,>=5,It rained
+256,>=87,15-32,>=5,It did not rain
+257,>=87,33-50,0-0.99,It rained
+258,>=87,33-50,0-0.99,It did not rain
+259,>=87,33-50,1-2.99,It rained
+260,>=87,33-50,1-2.99,It did not rain
+261,>=87,33-50,3-4.99,It rained
+262,>=87,33-50,3-4.99,It did not rain
+263,>=87,33-50,>=5,It rained
+264,>=87,33-50,>=5,It did not rain
+265,>=87,51-68,0-0.99,It rained
+266,>=87,51-68,0-0.99,It did not rain
+267,>=87,51-68,1-2.99,It rained
+268,>=87,51-68,1-2.99,It did not rain
+269,>=87,51-68,3-4.99,It rained
+270,>=87,51-68,3-4.99,It did not rain
+271,>=87,51-68,>=5,It rained
+272,>=87,51-68,>=5,It did not rain
+273,>=87,69-86,0-0.99,It rained
+274,>=87,69-86,0-0.99,It did not rain
+275,>=87,69-86,1-2.99,It rained
+276,>=87,69-86,1-2.99,It did not rain
+277,>=87,69-86,3-4.99,It rained
+278,>=87,69-86,3-4.99,It did not rain
+279,>=87,69-86,>=5,It rained
+280,>=87,69-86,>=5,It did not rain
+281,>=87,>=87,0-0.99,It rained
+282,>=87,>=87,0-0.99,It did not rain
+283,>=87,>=87,1-2.99,It rained
+284,>=87,>=87,1-2.99,It did not rain
+285,>=87,>=87,3-4.99,It rained
+286,>=87,>=87,3-4.99,It did not rain
+287,>=87,>=87,>=5,It rained
+288,>=87,>=87,>=5,It did not rain
